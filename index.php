@@ -8,9 +8,7 @@
 </head>
 <body>
 
-    <h1>
-        <?php echo "Hola mundo desde php"; ?>
-    </h1>
+    <h1>hols mundo</h1>
     
 </body>
 </html>
